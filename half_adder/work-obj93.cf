@@ -1,0 +1,7 @@
+v 4
+file . "half_adder_tb.vhdl" "f49a1c10d09317c9f0ae149cbf1386888c7ca440" "20240210110259.942":
+  entity half_adder_tb at 1( 0) + 0 on 1107;
+  architecture test of half_adder_tb at 7( 88) + 0 on 1108;
+file . "half_adder.vhdl" "27f3f744d6b54c662e288b3aacf14474632ea014" "20240210110259.935":
+  entity half_adder at 1( 0) + 0 on 1105;
+  architecture behavior of half_adder at 13( 135) + 0 on 1106;
