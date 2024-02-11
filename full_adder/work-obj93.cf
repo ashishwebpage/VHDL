@@ -1,0 +1,13 @@
+v 4
+file . "full_adder_tb.vhdl" "43f2afdf184aac1086feac95c676db23aa0208f2" "20240210141621.904":
+  entity full_adder_tb at 1( 0) + 0 on 1111;
+  architecture test of full_adder_tb at 7( 88) + 0 on 1112;
+file . "half_adder_tb.vhdl" "f49a1c10d09317c9f0ae149cbf1386888c7ca440" "20240210110259.942":
+  entity half_adder_tb at 1( 0) + 0 on 1107;
+  architecture test of half_adder_tb at 7( 88) + 0 on 1108;
+file . "half_adder.vhdl" "27f3f744d6b54c662e288b3aacf14474632ea014" "20240210110259.935":
+  entity half_adder at 1( 0) + 0 on 1105;
+  architecture behavior of half_adder at 13( 135) + 0 on 1106;
+file . "full_adder.vhdl" "0237e7716f8897ffbb7d004fd33229a3b276b460" "20240210141621.896":
+  entity full_adder at 1( 0) + 0 on 1109;
+  architecture behavior of full_adder at 13( 142) + 0 on 1110;
